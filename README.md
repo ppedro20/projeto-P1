@@ -1,2 +1,2 @@
 # projeto-P1
-projeto porgramação 1
+projeto programação 1
