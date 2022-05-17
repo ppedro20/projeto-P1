@@ -1,5 +1,4 @@
-# projeto-P1
-projeto programação 1
+#P1 project
 
 → uncompleted
 
